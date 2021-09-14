@@ -2,7 +2,7 @@ import pygame
 import configparser
 
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("config.ine")
 ploegnaam = config["teamA"]["naam"]
 print(ploegnaam)
 
@@ -31,7 +31,7 @@ while running:
                 Scoregastteam = 0
                 Scorethuisteam = 0
 
-    screen.fill("black")
+    screen.fill("white")
 
 
 

@@ -8,9 +8,9 @@ footer-image = reclame-footer.png
 top-image = reclame-top.png
 
 [teamA]
-name=Maaseik
-logo=maaseik.jpg
+naam = Maaseik
+logo = maaseik.jpg
 
 [teamB]
-name=Roeselare
+naam=Roeselare
 logo=
